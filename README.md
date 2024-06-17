@@ -1,4 +1,4 @@
-# Digital_Roller_Measuring_Tape_Project
+# Digital_Roller_Measuring_Meter_Project
 Digital Roller Measuring Tape Project for Damascus University, Electronic Measurement Lab.</br>
 
 ### Project Requirements
