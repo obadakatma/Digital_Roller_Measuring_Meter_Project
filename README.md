@@ -12,4 +12,6 @@ Digital Roller Measuring Tape Project for Damascus University, Electronic Measur
 1 x Slide Switch </br>
 1 x Tp4056 charging module with battery protection</br>
 
+Youtube video : [from here](https://youtu.be/Y3WobXmJYEQ?si=82VdL6t1i-uXW_ja)</br>
+
 **All parts are printed with PLA ,only the outer wheel is printed with TPU**
